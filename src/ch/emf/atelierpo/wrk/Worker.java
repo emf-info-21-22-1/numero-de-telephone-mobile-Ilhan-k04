@@ -11,7 +11,7 @@ public class Worker {
      * +4177, +4178 et +4179. Les caractères autorisé pour les numéros sont les
      * espaces et les chiffres de 0 à 9 compris.
      *
-     * @param prefix le préfix du numéro de téléphone
+     * @param prefix le préfix du numéro de téléphone 
      * @param numero le numéro de téléphone
      * @return Vrai seulement si les spécifications de la méthode sont respecter
      * sinon faux
